@@ -1,0 +1,50 @@
+
+
+body{
+	font-family: Courier,sans-serif;
+	padding: 10px;
+	font-size: 20px;
+	font-style: italic;
+	color: navajowhite;
+	background-image:url(https://c.wallhere.com/photos/2f/19/communism_revolution_USSR_Soviet_Union_China_Karl_Marx_red_minimalism-1942819.jpg!d);	
+	background-repeat: repeat;
+	background-size:100%;
+	position: relative;
+}
+
+button{
+	border: 5px solid darkblue;
+	font-family: Courier,sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	font-style: italic;
+	color: black;
+	background-color: darkred;
+
+}
+
+button:hover{
+	background-color: red;
+}
+
+footer{
+	border: 2px solid red;
+	padding: 10px;
+	margin-top: 50px;
+	margin-bottom: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+	color: darkseagreen;    
+	font-family: 'Comic-Sans';
+	font-weight: bold;
+
+}
+
+.produtos{
+	text-align: center;
+}
+
+.produtos h2{
+	border: 10px solid grey;
+}
+

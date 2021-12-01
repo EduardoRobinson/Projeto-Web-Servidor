@@ -1,0 +1,32 @@
+
+body{
+	font-family: Courier,sans-serif;
+	font-size: 20px;
+	font-style: italic;
+	color: blue;
+	background-image:url(https://s1.1zoom.me/b5050/561/333065-alexfas01_1920x1080.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+.carrinho{
+	font-family: Courier,sans-serif;
+	font-size: 20px;
+	font-style: italic;
+	color: blue;
+}
+button{
+	font-family: Courier,sans-serif;
+	font-size: 20px;
+	font-style: italic;
+	color: blue;
+	background-color: grey;
+	margin: 10px;
+
+}
+
+button:hover{
+	color: darkred;
+	background-color: red;
+}
+

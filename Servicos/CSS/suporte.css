@@ -1,0 +1,37 @@
+
+body{
+	font-family: Courier,sans-serif;
+	font-size: 20px;
+	font-style: italic;
+	color: red;
+	background-image:url(https://c.wallhere.com/photos/8c/b1/Soviet_Union_rocket_space-1865071.jpg!d) ;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.Suporte button{
+	font-family: Courier,sans-serif;
+	font-size: 20px;
+	font-style: italic;
+	color: red;
+	background-color: grey;
+	margin: 10px;
+
+}
+
+button:hover{
+	color: darkred;
+	background-color: red;
+}
+
+.Login button{
+	font-family: Courier,sans-serif;
+	font-size: 20px;
+	font-style: italic;
+	color: red;
+	background-color: grey;
+	margin: 10px;
+
+}
+
+
+
